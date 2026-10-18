@@ -1,0 +1,10 @@
+{
+  "name": "dietary",
+  "private": true,
+  "type": "module",
+  "description": "Dietary: app de alimentação com a Bia. Página estática (index.html) + função api/bia-chat.js para a Vercel.",
+  "engines": { "node": ">=20" },
+  "dependencies": {
+    "@anthropic-ai/sdk": "^0.131.0"
+  }
+}
